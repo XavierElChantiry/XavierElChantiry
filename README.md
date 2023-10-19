@@ -1,4 +1,8 @@
-### Hi there 👋
+# Heyo
+## Who am I?
+I am a formally trained DevOps engineer from BCIT, which is true, but that's not who I am; it's what I am.
+
+I am really just a guy who likes tech, code, and games and has had the luck of making what he enjoys into his source of income. I am someone who is lucky, as I got to work with great people and do some fun things working at Blackbird Interactive.
 
 <!--
 **XavierElChantiry/XavierElChantiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
